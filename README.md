@@ -1,1 +1,1 @@
-Bog standard IK implementation in py game
+Bog standard IK implementation in pygame
